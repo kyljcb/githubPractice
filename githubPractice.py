@@ -7,5 +7,4 @@ c = int(input())
 d = int(input())
 hotdog = a * b * c * d # this is the hotdog.
 
-
-print (hotdog)
+print (hotdog) # hotdog hindi itlog
