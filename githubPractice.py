@@ -3,7 +3,7 @@
 
 a = int(input())
 b = int(input())
-
-hotdog = a + b 
+c = int(input())
+hotdog = a + b + c
 
 print (hotdog)
