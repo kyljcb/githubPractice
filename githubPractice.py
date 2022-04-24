@@ -4,6 +4,7 @@
 a = int(input())
 b = int(input())
 c = int(input())
-hotdog = a + b + c
+d = int(input())
+hotdog = a + b + c + d 
 
 print (hotdog)
