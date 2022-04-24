@@ -1,6 +1,6 @@
 
 #add an integer
-
+# this is a sample program for my presentation.
 a = int(input())
 b = int(input())
 c = int(input())
